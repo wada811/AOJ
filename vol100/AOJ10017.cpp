@@ -10,7 +10,6 @@ int main(){
     while(1){
         scanf("%d %d ", &n, &x);
         if(n==0&&x==0)break;
-
         count=0;
         for(i=1;3*i+3<=x;i++){
             for(j=i+1;i+2*j+1<=x;j++){
