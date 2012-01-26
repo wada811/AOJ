@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 int main(){
-	int x;
-	scanf("%d", &x);
+    int x;
+    scanf("%d", &x);
 	printf("%d\n", x*x*x);
-	return 0;
+    return 0;
 }
 //*/
