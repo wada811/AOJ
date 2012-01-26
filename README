@@ -1,1 +1,13 @@
 AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/ で解答に使ったコード置き場
+
+ローカルリポジトリに追加
+git add ファイル名
+
+コミット
+git commit -m 'コメント'
+
+GitHubに反映
+git push -u origin master
+
+GitHubから取得
+git pull --all
