@@ -4,7 +4,7 @@
 
 int main(){
     int i, j, k;
-    int n=5, x=9;
+    int n, x;
     int count;
 
     while(1){
