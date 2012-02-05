@@ -1,11 +1,11 @@
-// AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=10028
+ï»¿// AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=10029
 //*
 #include <stdio.h>
 #include <string.h>
 #define MAX 1000000
 
-//  int x[] ƒ\[ƒg‚·‚é”z—ñ
-//  int n   ”z—ñ‚ÌƒTƒCƒY
+//  int x[] ã‚½ãƒ¼ãƒˆã™ã‚‹é…åˆ—
+//  int n   é…åˆ—ã®ã‚µã‚¤ã‚º
 void bubbleSort(int x[], int n){
     int i, j, tmp;
     for(i=0;i<n-1;i++){
