@@ -1,7 +1,6 @@
 // AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=10028
 //*
 #include <stdio.h>
-#include <string.h>
 #define MAX 1000
 
 //  int x[] ソートする配列
