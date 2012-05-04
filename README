@@ -11,3 +11,6 @@ git push -u origin master
 
 GitHubから取得
 git pull --all
+
+コミットを削除
+git revert -n HEAD
