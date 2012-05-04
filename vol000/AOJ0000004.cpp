@@ -1,3 +1,4 @@
+// AIZU ONLINE JUDGE http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0004&lang=jp
 //*
 #include <stdio.h>
 #include <math.h>
