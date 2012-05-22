@@ -12,6 +12,7 @@ int main(){
         if(det != 0){
             x = (e * c - b * f) / det;
             y = (a * f - d * c) / det;
+            // 答えが-0になる場合は0に直さないと通らないので直す
             x = (x == fabs(x)) ? fabs(x) : x;
             y = (y == fabs(y)) ? fabs(y) : y;
             // abs/labs/fabs http://homepage1.nifty.com/MADIA/vc/C/c_lang_ansi1.htm
